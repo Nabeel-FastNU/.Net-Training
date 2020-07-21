@@ -1,0 +1,11 @@
+C:\Users\n.khalid\Desktop\DailyLifeProject\Concepts\bin\Debug\Concepts.exe.config
+C:\Users\n.khalid\Desktop\DailyLifeProject\Concepts\bin\Debug\Concepts.exe
+C:\Users\n.khalid\Desktop\DailyLifeProject\Concepts\bin\Debug\Concepts.pdb
+C:\Users\n.khalid\Desktop\DailyLifeProject\Concepts\obj\Debug\Concepts.csprojAssemblyReference.cache
+C:\Users\n.khalid\Desktop\DailyLifeProject\Concepts\obj\Debug\Concepts.csproj.CoreCompileInputs.cache
+C:\Users\n.khalid\Desktop\DailyLifeProject\Concepts\obj\Debug\Concepts.exe
+C:\Users\n.khalid\Desktop\DailyLifeProject\Concepts\obj\Debug\Concepts.pdb
+C:\Users\n.khalid\Desktop\DailyLifeProject\Concepts\bin\Debug\StudentTotal.dll
+C:\Users\n.khalid\Desktop\DailyLifeProject\Concepts\bin\Debug\StudentTotal.pdb
+C:\Users\n.khalid\Desktop\DailyLifeProject\Concepts\bin\Debug\StudentTotal.dll.config
+C:\Users\n.khalid\Desktop\DailyLifeProject\Concepts\obj\Debug\Concepts.csproj.CopyComplete

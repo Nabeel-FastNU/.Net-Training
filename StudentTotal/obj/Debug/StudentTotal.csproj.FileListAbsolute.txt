@@ -1,0 +1,7 @@
+C:\Users\n.khalid\Desktop\DailyLifeProject\StudentTotal\obj\Debug\StudentTotal.csprojAssemblyReference.cache
+C:\Users\n.khalid\Desktop\DailyLifeProject\StudentTotal\obj\Debug\StudentTotal.csproj.CoreCompileInputs.cache
+C:\Users\n.khalid\Desktop\DailyLifeProject\StudentTotal\bin\Debug\StudentTotal.dll.config
+C:\Users\n.khalid\Desktop\DailyLifeProject\StudentTotal\bin\Debug\StudentTotal.dll
+C:\Users\n.khalid\Desktop\DailyLifeProject\StudentTotal\bin\Debug\StudentTotal.pdb
+C:\Users\n.khalid\Desktop\DailyLifeProject\StudentTotal\obj\Debug\StudentTotal.dll
+C:\Users\n.khalid\Desktop\DailyLifeProject\StudentTotal\obj\Debug\StudentTotal.pdb

@@ -1,0 +1,14 @@
+C:\Users\n.khalid\source\repos\DailyLifeProject\DailyLifeProject\bin\Debug\DailyLifeProject.exe.config
+C:\Users\n.khalid\source\repos\DailyLifeProject\DailyLifeProject\bin\Debug\DailyLifeProject.exe
+C:\Users\n.khalid\source\repos\DailyLifeProject\DailyLifeProject\bin\Debug\DailyLifeProject.pdb
+C:\Users\n.khalid\source\repos\DailyLifeProject\DailyLifeProject\obj\Debug\DailyLifeProject.csprojAssemblyReference.cache
+C:\Users\n.khalid\source\repos\DailyLifeProject\DailyLifeProject\obj\Debug\DailyLifeProject.csproj.CoreCompileInputs.cache
+C:\Users\n.khalid\source\repos\DailyLifeProject\DailyLifeProject\obj\Debug\DailyLifeProject.exe
+C:\Users\n.khalid\source\repos\DailyLifeProject\DailyLifeProject\obj\Debug\DailyLifeProject.pdb
+C:\Users\n.khalid\Desktop\DailyLifeProject\DailyLifeProject\bin\Debug\DailyLifeProject.exe.config
+C:\Users\n.khalid\Desktop\DailyLifeProject\DailyLifeProject\bin\Debug\DailyLifeProject.exe
+C:\Users\n.khalid\Desktop\DailyLifeProject\DailyLifeProject\bin\Debug\DailyLifeProject.pdb
+C:\Users\n.khalid\Desktop\DailyLifeProject\DailyLifeProject\obj\Debug\DailyLifeProject.csprojAssemblyReference.cache
+C:\Users\n.khalid\Desktop\DailyLifeProject\DailyLifeProject\obj\Debug\DailyLifeProject.csproj.CoreCompileInputs.cache
+C:\Users\n.khalid\Desktop\DailyLifeProject\DailyLifeProject\obj\Debug\DailyLifeProject.exe
+C:\Users\n.khalid\Desktop\DailyLifeProject\DailyLifeProject\obj\Debug\DailyLifeProject.pdb
