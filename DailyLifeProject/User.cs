@@ -8,9 +8,13 @@ namespace DailyLifeProject
 {
     public class User : Person
     {
+        private string emailID { get; }
+        private string password { get;  }
         public List<Event> events { get;  } 
-        public User(string name, string des, string pno) : base(name, des, pno)
+        public User(string name, string eId, string pass, string des, string pno) : base(name, des, pno)
         {
+            emailID = eId;
+            password = pass;
             events = new List<Event>();
         }
 

@@ -53,7 +53,7 @@ namespace DailyLifeProject
             eventDelegate();
 
 
-            User u1 = new User("Nabeel", "User-1", "03364994623");
+            User u1 = new User("Nabeel","nabeel@abc.com", "123123", "User-1", "03364994623");
             u1.addEvent(M1);
             u1.addEvent(T1);
             u1.addEvent(GT1);
