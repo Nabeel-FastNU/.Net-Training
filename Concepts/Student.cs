@@ -19,6 +19,7 @@ namespace Concepts
             Marks = m;
         }
 
+        //Lambda Expressions 
 
         public Func<Student, bool> checkPass = (s) => s.Marks > 50;
 
